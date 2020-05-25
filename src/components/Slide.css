@@ -1,0 +1,19 @@
+.Slide {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  background-color: #e8eaf6;
+}
+.Content {
+  width: 99vw;
+  height:66vw;
+  max-height: 100vh;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  background-color: white;
+  border-radius: 2px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
